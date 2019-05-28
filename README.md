@@ -1,5 +1,5 @@
 # diy
-wget -N --no-check-certificate https://github.com/fev125/91yuntest/raw/master/test.sh && bash test.sh -i "chinabw"
+    wget -N --no-check-certificate https://github.com/fev125/91yuntest/raw/master/test.sh && bash test.sh -i "chinabw"
 # 91yun服务器测试一键包介绍
 
 一键包主要是为了让大家快速对服务器的基本状况有一个了解。考虑到天朝的网络出口问题，所以这个一键包更加偏向网络的测试。
